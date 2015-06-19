@@ -1,0 +1,45 @@
+body {
+  background-color:#246B47;
+
+}
+
+h1 {
+    color: silver;
+    margin-left: 20px;
+    text-align: center;
+}
+ul {color:#000000;
+    text-align:center;
+    width:30rem ;
+    margin: auto;
+
+}
+li {text-align:center; }
+
+
+.top_speed {
+  list-style: none;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
+img{
+
+}
+
+h4{
+  color:silver;
+  text-align: left;
+  margin-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
